@@ -1,9 +1,12 @@
-# Southeast US Species Distributions
-## Based on SEAMAP-SA Coastal Trawl Survey
+## Southeast US Species Distributions
+#### Based on SEAMAP-SA Coastal Trawl Survey
+
+Species profiles available [here](https://carlylovas.github.io/southeast_species_dist/code/se_trawl.html)
+
 
 #### More info below
 [Survey methods](https://www.dnr.sc.gov/marine/mrri/CoastalResearch/SEAMAP/pdf/SEAMAPtrawlmethods.pdf)
 
 [South Carolina Department of Natural Resources Marine Resources Research Institute](https://www.dnr.sc.gov/marine/mrri/CoastalResearch/SEAMAP/index.html)
 
-[SEAMPA-SA Data Portal](https://www2.dnr.sc.gov/seamap/) 
+[SEAMAP-SA Data Portal](https://www2.dnr.sc.gov/seamap/) 
