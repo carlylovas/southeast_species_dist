@@ -1,7 +1,7 @@
 ## Southeast US Species Distributions
 #### Based on SEAMAP-SA Coastal Trawl Survey
 
-Species profiles available [here](https://carlylovas.github.io/southeast_species_dist/code/se_trawl.html)
+Species profiles available [here](https://carlylovas.github.io/southeast_species_dist/code/se_summaries.html)
 
 
 #### More info below
